@@ -1,0 +1,1 @@
+# dwm-bash-xsetroot-animation
